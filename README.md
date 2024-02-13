@@ -21,7 +21,7 @@
 
 💬 Don`t Ask me about 
 
-+ How to how to marry an anime girl?
++ how to marry an anime girl?
     
 
 
