@@ -4,7 +4,7 @@
 🚀 About Me :
 ` Lit My Brother 🔥 `
 
-
+<!--
 #### Other Common Github Profile Sections
 
 👩‍💻 I'm currently working on 
@@ -28,7 +28,7 @@
 
 ## 🛠 Skills
 Javascript, HTML, CSS
-
+-->
 
 <!--
 **Olionnn/Olionnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
